@@ -1,1 +1,1 @@
-The html code to trac site speed was provided by David Vallejo
+The html code to track site speed was provided by David Vallejo
